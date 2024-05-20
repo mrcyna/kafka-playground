@@ -1,5 +1,5 @@
 # Kafka-Playground
-A simple nice playground to work with Kafka on your machine (Via Docker)
+A simple docker-based playground to work with Kafka on your machine
 
 ## Services
 - Zookeeper
